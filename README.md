@@ -1,3 +1,3 @@
 # kroneker
-for grandarchtemplar  
+For grandarchtemplar  
 Actually cheating
